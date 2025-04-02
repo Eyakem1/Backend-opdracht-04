@@ -1,0 +1,15 @@
+public interface FireAttack {
+    void flameThrower(Pokemon opponent);
+}
+
+public interface WaterAttack {
+    void waterGun(Pokemon opponent);
+}
+
+public interface GrassAttack {
+    void leafStorm(Pokemon opponent);
+}
+
+public interface ElectricAttack {
+    void thunderShock(Pokemon opponent);
+}
